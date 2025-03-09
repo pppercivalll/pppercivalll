@@ -30,11 +30,3 @@ jobs:
         with:
           username: ${{ github.repository_owner }}
           theme: github
-
-      - name: Commit and Push Changes
-        run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git add README.md
-          git commit -m "Auto-update README" || echo "No changes to commit"
-          git push
