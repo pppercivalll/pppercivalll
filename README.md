@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Percival]!
+# 👋 Percival on GItHub
 
 ## 🔥 My GitHub Kroco Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pppercivalll&show_icons=true&theme=tokyonight)
