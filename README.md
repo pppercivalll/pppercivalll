@@ -1,4 +1,4 @@
-# 👋 Percival on GItHub.
+# 👋 Percival on GitHub.
 **My personal page in GitHub platform that required extra energy to work on it.**
 
 ## 🔥 My GitHub Kroco Stats
