@@ -12,9 +12,11 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Update GitHub Stats
-        uses: anuraghazra/github-readme-stats@v1.1.0
-        with:
+      - name: Manually Fetch GitHub Stats
+        run: |
+          git clone https://github.com/anuraghazra/github-readme-stats.git
+          cd github-readme-stats
+          chmod +x action.yml
           username: ${{ github.repository_owner }}
           theme: dark
           show_icons: true
