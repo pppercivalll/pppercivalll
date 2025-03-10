@@ -1,5 +1,5 @@
 # 👋 Percival on GitHub.
-**My personal page in GitHub platform that required extra energy to work on it.**
+**My personal page in GitHub platform that required some kekuatan anime to work on it.**
 
 ## 🔥 My GitHub Kroco Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pppercivalll&show_icons=true&theme=tokyonight)
